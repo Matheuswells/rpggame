@@ -1,0 +1,1322 @@
+{
+  "chunks": [
+    [
+      {
+        "blocks": [
+          [
+            {
+              "tile": 45,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 46,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 47,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 56,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 57,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 58,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ],
+          [
+            {
+              "tile": 67,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 68,
+              "collision": "Passable",
+              "texture": "grass"
+            },
+            {
+              "tile": 69,
+              "collision": "Passable",
+              "texture": "grass"
+            }
+          ]
+        ]
+      }
+    ]
+  ]
+}
