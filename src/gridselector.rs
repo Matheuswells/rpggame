@@ -2,7 +2,7 @@ use bevy::prelude::*;
 use bevy::render::view::RenderLayers;
 use bevy::window::PrimaryWindow;
 use crate::game::MainCamera;
-use crate::layers::{EDITOR_LAYER, PLAYER_LAYER};
+use crate::layers::{EDITOR_LAYER};
 use crate::resolution;
 
 pub struct GridSelectorPlugin;
@@ -166,7 +166,7 @@ fn get_hovered_block(
         if let Ok(ray) = camera.viewport_to_world(camera_transform, cursor) {
             let world_position = ray.origin.truncate();
             mycoords.0 = world_position;
-            let block_size = (resolution.pixel_ratio as f32 + 1.0) * resolution.frame_size.x as f32;
+            let _block_size = (resolution.pixel_ratio as f32 + 1.0) * resolution.frame_size.x as f32;
             let grid_x = ((world_position.x) / (64.0 / 2.0) ) as isize;
             let grid_y = ((world_position.y) / (64.0 / 2.0)) as isize;
 

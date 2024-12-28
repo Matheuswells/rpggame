@@ -12,7 +12,7 @@ impl Plugin for CursorPlugin {
     fn build(&self, app: &mut App) {
         app
             .add_systems(Startup, setup)
-            .add_systems(Update, (update_sprite_position_on_resize));
+            .add_systems(Update, update_sprite_position_on_resize);
     }
 }
 
@@ -20,7 +20,7 @@ fn setup(
     mut commands: Commands,
     asset_server: Res<AssetServer>,
     mut texture_atlas_layouts: ResMut<Assets<TextureAtlasLayout>>,
-    mut q_window: Query<&Window, With<PrimaryWindow>>) {
+    q_window: Query<&Window, With<PrimaryWindow>>) {
     let texture = asset_server.load("cursors/normal.png");
     let layout = TextureAtlasLayout::from_grid(UVec2::new(32,32), 1, 1, None, None);
     let texture_atlas_layout = texture_atlas_layouts.add(layout);
@@ -62,7 +62,7 @@ fn update_sprite_position_on_resize(
             mouse_position_y = position.y + top_margin;
         }
 
-        if let Some((camera, camera_transform)) = q_camera.iter().next() {
+        if let Some((_camera, camera_transform)) = q_camera.iter().next() {
             let camera_position = camera_transform.translation();
 
             for (mut transform, _sprite) in query.iter_mut() {

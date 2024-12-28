@@ -1,5 +1,5 @@
 #![windows_subsystem = "windows"]
-mod player;
+pub mod player;
 mod game;
 mod map;
 mod layers;
@@ -17,8 +17,8 @@ use bevy::text::FontSmoothing;
 struct OverlayColor;
 
 impl OverlayColor {
-    const RED: Color = Color::srgb(1.0, 0.0, 0.0);
-    const GREEN: Color = Color::srgb(0.0, 1.0, 0.0);
+    // const RED: Color = Color::srgb(1.0, 0.0, 0.0);
+    // const GREEN: Color = Color::srgb(0.0, 1.0, 0.0);
     const WHITE: Color = Color::srgb(1.0, 1.0, 1.0);
 }
 

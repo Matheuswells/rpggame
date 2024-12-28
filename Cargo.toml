@@ -1,5 +1,5 @@
 [package]
-name = "catfarm"
+name = "rpggame"
 version = "0.1.0"
 edition = "2021"
 authors = ["Grizzy<grizzyrp@gmail.com>"]
